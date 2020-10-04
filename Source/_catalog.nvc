@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<catalog name="プログラマブル・スターズ">
+    <group index="0" name="序章">
+        <contents index="1" name="序章・星芒を超えて" file="0000_01.txt" />
+    </group>
+    <!--
+    <group index="1" name="１章">
+        <contents index="1" name="１章・星に願いを（１）" file="0001_01.txt" />
+    </group>
+    -->
+</catalog>
