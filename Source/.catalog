@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Catalog Name="プログラマブル・スターズ">
+    <Group Name="序章・星芒を超えて">
+        <NotesvelText Name="序章・星芒を超えて" Path="0000_01.txt" />
+    </Group>
+    <!--
+    <Group Name="１章・星に願いを">
+        <TextFile Index="1" Name="１章・星に願いを（１）" File="0001_01.txt" />
+    </Group>
+    -->
+</Catalog>
